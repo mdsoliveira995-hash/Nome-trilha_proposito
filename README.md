@@ -11,12 +11,12 @@ class TelaMentores extends StatelessWidget {
     {
       "nome": "mirian oliveira ",
       "cargo": " mentora de crianças e famílias ",
-      "url": "https://linktr.ee/oliveiramiriande"
+      "url": "https://linktr.ee/_oliveiramiriande"
     
     {
       "nome": "Cida Pacheco",
       "cargo": "Psicanalista e Pro Stility",
-      "url": "https://instagran/cidapachecopscanalista"
+      "url": "https://instagran/cidapachecopsicanalista"
     },
 
     {
