@@ -5,10 +5,18 @@ class TelaMentores extends StatelessWidget {
 
   final List<Map<String, String>> profissionais = [
 
+    
+    
+    
+    {
+      "nome": "mirian oliveira ",
+      "cargo": " mentora de crianças e famílias ",
+      "url": "https://linktr.ee/oliveiramiriande"
+    
     {
       "nome": "Cida Pacheco",
       "cargo": "Psicanalista e Pro Stility",
-      "url": "https://linktr.ee/cidapachecopscanalista"
+      "url": "https://instagran/cidapachecopscanalista"
     },
 
     {
